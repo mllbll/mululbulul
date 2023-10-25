@@ -58,3 +58,4 @@ if flag == 2:
     color_2('temporary.jpg')
 
 
+# https://zhaluse.ru/wp-content/uploads/2023/03/madagaskar-belyj.jpg
